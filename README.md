@@ -31,7 +31,10 @@
 
 ## 🎬 Review On HK Gallery Studio:
 
- [![Review On Youtube](https://gallery.hk4tech.com/wp-content/uploads/2016/05/01-videopro-logo-dark-1x-1.png)](https://gallery.hk4tech.com/ "Review On Youtube")
+<a href="https://gallery.hk4tech.com/" target="_blank">
+  <img src="https://gallery.hk4tech.com/wp-content/uploads/2016/05/01-videopro-logo-dark-1x-1.png" alt="Review On Youtube">
+</a>
+
 
 </p>
 
