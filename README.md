@@ -31,9 +31,9 @@
 
 ## 🎬 Review On HK Gallery Studio:
 
-<a href="https://gallery.hk4tech.com/" target="_blank">
-  <img src="https://gallery.hk4tech.com/wp-content/uploads/2016/05/01-videopro-logo-dark-1x-1.png" alt="Review On Youtube">
-</a>
+| [![Review On Youtube](https://gallery.hk4tech.com/wp-content/uploads/2016/05/01-videopro-logo-dark-1x-1.png)](https://gallery.hk4tech.com/) |
+|:--:|
+| **Right-click the image and choose "Open link in new tab"** |
 
 
 </p>
