@@ -16,17 +16,17 @@
   <a href="https://hk4tech.com/home/GameloopPortableUpdater">
   </a>
   <br>
-  v3.0.2025.1 (Gameloop Portable Full) - Mar 14, 2025 - <a href="https://github.com/AhmedNasserHK/Gameloop-Portable-2025/releases/download/3.0.2025.1/Gameloop.Portable.FULL.v3.0.2025.1.7z">Download (53.04 MB)</a>
+  v7.0.2025.1 (Gameloop Portable Full) - July 15, 2025 - <a href="https://github.com/AhmedNasserHK/Gameloop-Portable-2025/releases/download/7.0.2025.1/Gameloop.Portable.FULL.v7.0.2025.1.7z">Download (53.04 MB)</a>
    <br>
-  v3.0.2025.1 (Update Only) - Mar 14, 2025 - <a href="https://github.com/AhmedNasserHK/Gameloop-Portable-2025/releases/download/3.0.2025.1/Gameloop.Portable.Update.Only.v3.0.2025.1.7z">Download (53.04 MB)</a>
+  v7.0.2025.1 (Update Only) - July 15, 2025 - <a href="https://github.com/AhmedNasserHK/Gameloop-Portable-2025/releases/download/7.0.2025.1/Gameloop.Portable.Update.Only.v7.0.2025.1.7z">Download (53.04 MB)</a>
   <br>
-  v3.0.2025.1 (Gameloop Portable Full 32Bit Plug & Run) - Mar 14, 2025 - <a href="https://github.com/AhmedNasserHK/Gameloop-Portable-2025/releases/download/3.0.2025.1/Gameloop.Portable.32Bit.Plug.Run.v3.0.2025.1.html">Download (3.58 GB) [HTML Page]</a>
+  v7.0.2025.1 (Gameloop Portable Full 32Bit Plug & Run) - July 15, 2025 - <a href="https://github.com/AhmedNasserHK/Gameloop-Portable-2025/releases/download/7.0.2025.1/Gameloop.Portable.32Bit.Plug.Run.v7.0.2025.1.html">Download (3.58 GB) [HTML Page]</a>
   <br>
-  v3.0.2025.1 (Gameloop Portable Full 32Bit Plug & Run) - Mar 14, 2025 - <a href="https://github.com/AhmedNasserHK/Gameloop-Portable-2025/releases/download/3.0.2025.1/Gameloop.Portable.32Bit.Plug.Run.v3.0.2025.1.url">Download (3.58 GB) [URL Page]</a>
+  v7.0.2025.1 (Gameloop Portable Full 32Bit Plug & Run) - July 15, 2025 - <a href="https://github.com/AhmedNasserHK/Gameloop-Portable-2025/releases/download/7.0.2025.1/Gameloop.Portable.32Bit.Plug.Run.v7.0.2025.1.url">Download (3.58 GB) [URL Page]</a>
   <br>
-  v3.0.2025.1 (Gameloop Portable Full 64Bit Plug & Run) - Mar 14, 2025 - <a href="https://github.com/AhmedNasserHK/Gameloop-Portable-2025/releases/download/3.0.2025.1/Gameloop.Portable.64Bit.Plug.Run.v3.0.2025.1.html">Download (3.15 GB) [HTML Page]</a>
+  v7.0.2025.1 (Gameloop Portable Full 64Bit Plug & Run) - July 15, 2025 - <a href="https://github.com/AhmedNasserHK/Gameloop-Portable-2025/releases/download/7.0.2025.1/Gameloop.Portable.64Bit.Plug.Run.v7.0.2025.1.html">Download (3.15 GB) [HTML Page]</a>
   <br>
-  v3.0.2025.1 (Gameloop Portable Full 64Bit Plug & Run) - Mar 14, 2025 - <a href="https://github.com/AhmedNasserHK/Gameloop-Portable-2025/releases/download/3.0.2025.1/Gameloop.Portable.64Bit.Plug.Run.v3.0.2025.1.url">Download (3.15 GB) [URL Page]</a>
+  v7.0.2025.1 (Gameloop Portable Full 64Bit Plug & Run) - July 15, 2025 - <a href="https://github.com/AhmedNasserHK/Gameloop-Portable-2025/releases/download/7.0.2025.1/Gameloop.Portable.64Bit.Plug.Run.v7.0.2025.1.url">Download (3.15 GB) [URL Page]</a>
   <br>
 
 <p style="text-align: center;"><strong>🔆 Gameloop Portable Full:</strong><br /><em>This's a full portable with all files just need your gameloop emulator to get into this folder.</em></p>
